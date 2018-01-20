@@ -1,4 +1,5 @@
 //: A UIKit based Playground for presenting user interface
+//  iCoilCalculator Playground
   
 import UIKit
 import PlaygroundSupport
@@ -133,6 +134,7 @@ class MyViewController : UIViewController {
 }
 // Present the view controller in the Live View window
 PlaygroundPage.current.liveView = MyViewController()
+
 
 
 // Custom coil class
